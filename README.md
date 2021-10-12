@@ -18,4 +18,4 @@ public function message() {
 }
 ```
 
-![example](https://m.imgur.com/a/Ahg8ijb)
+![example](https://m.imgur.com/HTtQY7I.jpg)
