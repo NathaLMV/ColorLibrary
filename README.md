@@ -17,3 +17,5 @@ public function message() {
   Console::send(Console::setTranslateConsole("&3LIBRERIA &7DE &dCOLORES", []);
 }
 ```
+
+![example](https://m.imgur.com/a/Ahg8ijb)
