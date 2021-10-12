@@ -11,7 +11,7 @@ public function getConsole() : Console {
 }
 ```
 
-# COMO UTILIZAR LA FUNCION SEND(STRING $MESSAGE)
+# COMO UTILIZAR LA FUNCION SEND(STRING $MESSAGE) Y SETRANSLATECONSOLE(STRING $MESSAGE, ARRAY $ARGUMENTOS)
 ```php
 public function message() {
   Console::send(Console::setTranslateConsole("&3LIBRERIA &7DE &dCOLORES", []);
