@@ -1,5 +1,6 @@
 # ColorLibrary
 Libreria para colores de php
+sorporta windows, android
 
 # PARA CREAR UNA INSTANCIA
 ```php
