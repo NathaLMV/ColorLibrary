@@ -2,15 +2,6 @@
 Libreria para colores de php
 sorporta windows, android
 
-# PARA CREAR UNA INSTANCIA
-```php
-use libs\console\Console.php
-
-public function getConsole() : Console {
-  return new Console();
-}
-```
-
 # COMO UTILIZAR LA FUNCION SEND(STRING $MESSAGE) Y SETRANSLATECONSOLE(STRING $MESSAGE, ARRAY $ARGUMENTOS)
 ```php
 public function message() {
